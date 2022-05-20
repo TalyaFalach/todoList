@@ -1,4 +1,4 @@
-//<i class="fa-solid fa-trash-can"></i>
+// yes
 const userInput = document.getElementById('userInput')
 const addTodoBtn = document.getElementById('addTodoBtn');
 const ul = document.getElementById('ul');
